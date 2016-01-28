@@ -27,7 +27,7 @@ exports = module.exports = (function () {
 			body: {
 				text: msg,
 				channel: channel,
-				username: username,
+				username: username
 			}
 		});
 	}

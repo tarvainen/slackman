@@ -1,0 +1,26 @@
+{
+  "name": "slackman",
+  "version": "1.0.0",
+  "description": "Node module for creating beautiful integrations with slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tarvainen/slackman.git"
+  },
+  "keywords": [
+    "slack",
+    "node"
+  ],
+  "author": "Atte Tarvainen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tarvainen/slackman/issues"
+  },
+  "homepage": "https://github.com/tarvainen/slackman#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}

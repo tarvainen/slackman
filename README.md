@@ -17,7 +17,7 @@ Then require the slackman module and create new Slackman object to use it. Of co
       username: 'Blog comment bot',
       message: 'Default message',
       debug: true
-      });
+    });
 
 Okay. You are ready to go. You should now to be able to send messages to your slack channel. If you not pass any parameters, will the bot send the default values set.
 

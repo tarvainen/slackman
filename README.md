@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Development of this library has been ended decades ago. Please don't use this anymore. Pull requests and issues will be just ignored because I simply have no time for this. 
+
+Package from the npm will not be removed.
+
 # Slackman
 The node module for creating beautiful integrations with Slack. https://slack.com/
 
